@@ -9,6 +9,7 @@
   "author": "Haripriya",
   "license": "ISC",
   "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0",
     "node": "^21.1.0"
   }
 }
